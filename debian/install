@@ -1,2 +1,3 @@
-jitsi.desktop			/usr/share/applications
+jitsi.desktop			usr/share/applications
 jitsi-meet-x86_64.AppImage	usr/share/jitsi
+org.jitsi.meet.202030.png       usr/share/icons
