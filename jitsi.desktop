@@ -3,7 +3,7 @@
 Name=Jitsi Meet Electron app
 GenericName=Jitsi Meet Electron app
 Comment=Desktop application for Jitsi Meet built with Electron.
-Exec=/path/jitsi-meet-x86_64.AppImage --no-sandbox
+Exec=/usr/share/jitsi/jitsi-meet-x86_64.AppImage --no-sandbox
 Terminal=false
 Type=Application
 StartupNotify=true
