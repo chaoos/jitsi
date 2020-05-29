@@ -1,0 +1,7 @@
+# tmp files, composer binary and package building files
+/debian/tmp
+/debian/bin
+/debian/jitsi
+/build-stamp
+/debian/*.debhelper.log
+/debian/*.substvars
