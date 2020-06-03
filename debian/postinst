@@ -21,7 +21,7 @@ set -e
 case "$1" in
     configure)
         chmod 755 /usr/share/applications/jitsi-meet-electron.desktop
-        chmod 755 /usr/share/jitsi/jitsi-meet-x86_64.AppImage
+        chmod 755 /usr/share/jitsi-meet-electro/jitsi-meet-x86_64.AppImage
     ;;
 
     abort-upgrade|abort-remove|abort-deconfigure)
