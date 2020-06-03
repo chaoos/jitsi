@@ -20,7 +20,7 @@ set -e
 
 case "$1" in
     configure)
-        chmod 755 /usr/share/applications/jitsi.desktop
+        chmod 755 /usr/share/applications/jitsi-meet-electron.desktop
         chmod 755 /usr/share/jitsi/jitsi-meet-x86_64.AppImage
     ;;
 
