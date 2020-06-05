@@ -2,5 +2,7 @@ Build package
 
 * Download latest jitsi appimage from https://github.com/jitsi/jitsi-meet-electron/releases
 * maybe adjust the .desktop file
+* changelog entry with new version
+ * LC_ALL=c date -R
 * dpkg-buildpackage -b -rfakeroot -us -uc
 

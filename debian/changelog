@@ -1,3 +1,17 @@
+jitsi-meet-electron (2.2.0) unstable; urgency=low
+
+   * 759b9a0 Reorganize settings drawer
+   * 8de41a4 Remove local avatar
+   * 09345d6 Replace unmaintained SVG plugin
+   * 87d6315 Update Electron to version 9.0.2
+   * a1ec905 Add context menu
+   * 962470d Restrict URLs which can be opened in an external browser
+   * 27fc58f Fix deep-signing
+   * 9d6eda9 Enable DevTools also on release builds
+   * f42622b Update Electron to 9.0.1
+
+ -- Roman Gruber <roman.gruber@inf.unibe.ch>  Fri, 05 Jun 2020 16:11:16 +0200
+
 jitsi-meet-electron (2.1.1) unstable; urgency=low
 
   * Initial release
