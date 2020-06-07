@@ -1,12 +1,9 @@
-#!/usr/bin/env xdg-open
 [Desktop Entry]
-Name=Jitsi Meet Electron app
-GenericName=Jitsi Meet Electron app
-Comment=Desktop application for Jitsi Meet built with Electron.
+Name=Jitsi Meet Electron
+GenericName=Videoconferencing and Remote Administration
+GenericName[de]=Videokonferenz und Fernwartung
 Exec=/usr/share/jitsi-meet-electron/jitsi-meet-x86_64.AppImage --no-sandbox
-Icon=/usr/share/icons/org.jitsi.meet.202030.png
+Icon=org.jitsi.meet.202030.png
 Categories=Network;
-Terminal=false
 Type=Application
 StartupNotify=true
-
