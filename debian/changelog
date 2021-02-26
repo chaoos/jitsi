@@ -1,3 +1,15 @@
+jitsi-meet-electron (2.5.1+lernstick.1) lernstick-10; urgency=medium
+
+  * new upstream version (rebuild with enabled remote control)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 26 Feb 2021 13:59:12 +0100
+
+jitsi-meet-electron (2.4.2+lernstick.1) lernstick-10; urgency=medium
+
+  * new upstream version (rebuild with enabled remote control)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 21 Dec 2020 15:46:01 +0100
+
 jitsi-meet-electron (2.2.0+lernstick.1) lernstick-10; urgency=medium
 
   * [5e010d] changed package format to "native"

@@ -1,7 +1,13 @@
 # tmp files, composer binary and package building files
-/debian/tmp
-/debian/bin
-/debian/jitsi
 /build-stamp
+/debian/bin
+debian/.debhelper/
 /debian/*.debhelper.log
+debian/files
+/debian/jitsi
+debian/jitsi-meet-electron/
+debian/jitsi-meet-electron.postinst.debhelper
+debian/jitsi-meet-electron.postrm.debhelper
 /debian/*.substvars
+/debian/tmp
+jitsi-meet-x86_64.AppImage
