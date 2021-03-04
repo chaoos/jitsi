@@ -2,6 +2,7 @@
 /build-stamp
 /debian/bin
 debian/.debhelper/
+debian/debhelper-build-stamp
 /debian/*.debhelper.log
 debian/files
 /debian/jitsi
