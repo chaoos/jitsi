@@ -1,3 +1,9 @@
+jitsi-meet-electron (2.6.r01+lernstick.1) lernstick-10; urgency=medium
+
+  * new upstream version (rebuild with enabled remote control)
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 04 Mar 2021 13:10:23 +0100
+
 jitsi-meet-electron (2.5.1+lernstick.1) lernstick-10; urgency=medium
 
   * new upstream version (rebuild with enabled remote control)
