@@ -1,4 +1,4 @@
-jitsi-meet-electron (2.6.r01+lernstick.1) lernstick-10; urgency=medium
+jitsi-meet-electron (2.6.0+lernstick.1) lernstick-10; urgency=medium
 
   * new upstream version (rebuild with enabled remote control)
 
